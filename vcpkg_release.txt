@@ -1,0 +1,16 @@
+ Volume in drive D is Dev01
+ Volume Serial Number is D076-7C33
+
+ Directory of D:\Projects\Git\_vcpkg\Release
+
+02/27/2022  16:52    <DIR>          .
+02/27/2022  16:52    <DIR>          ..
+02/25/2022  18:11    <JUNCTION>     bin [D:\vcpkg\installed\x64-windows\bin]
+02/25/2022  18:11    <JUNCTION>     include [D:\vcpkg\installed\x64-windows\include]
+02/25/2022  18:12    <JUNCTION>     lib [D:\vcpkg\installed\x64-windows\lib]
+02/27/2022  16:52    <JUNCTION>     media [D:\vcpkg\installed\x64-windows\Media]
+02/25/2022  18:12    <JUNCTION>     tools [D:\vcpkg\installed\x64-windows\tools]
+02/25/2022  18:13    <JUNCTION>     utils [D:\vcpkg\installed\x64-windows\utils]
+02/27/2022  16:52                 0 vcpkg_release
+               1 File(s)              0 bytes
+               8 Dir(s)  909,899,558,912 bytes free

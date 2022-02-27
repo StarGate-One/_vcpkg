@@ -1,0 +1,16 @@
+ Volume in drive D is Dev01
+ Volume Serial Number is D076-7C33
+
+ Directory of D:\Projects\Git\_vcpkg\Debug
+
+02/27/2022  16:53    <DIR>          .
+02/27/2022  16:53    <DIR>          ..
+02/25/2022  18:14    <JUNCTION>     bin [D:\vcpkg\installed\x64-windows\debug\bin]
+02/25/2022  18:11    <JUNCTION>     include [D:\vcpkg\installed\x64-windows\include]
+02/25/2022  18:15    <JUNCTION>     lib [D:\vcpkg\installed\x64-windows\debug\lib]
+02/27/2022  16:52    <JUNCTION>     media [D:\vcpkg\installed\x64-windows\debug\Media]
+02/25/2022  18:14    <JUNCTION>     tools [D:\vcpkg\installed\x64-windows\debug\tools]
+02/25/2022  18:24    <JUNCTION>     utils [D:\vcpkg\installed\x64-windows\debug\utils]
+02/27/2022  16:53                 0 vcpkg_debug
+               1 File(s)              0 bytes
+               8 Dir(s)  909,899,554,816 bytes free
