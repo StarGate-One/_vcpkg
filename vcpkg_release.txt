@@ -1,16 +1,16 @@
  Volume in drive D is Dev01
- Volume Serial Number is D076-7C33
+ Volume Serial Number is AC63-F430
 
- Directory of D:\Projects\Git\_vcpkg\Release
+ Directory of D:\Projects\Git\_vcpkg\release
 
-02/27/2022  16:52    <DIR>          .
-02/27/2022  16:52    <DIR>          ..
-02/25/2022  18:11    <JUNCTION>     bin [D:\vcpkg\installed\x64-windows\bin]
-02/25/2022  18:11    <JUNCTION>     include [D:\vcpkg\installed\x64-windows\include]
-02/25/2022  18:12    <JUNCTION>     lib [D:\vcpkg\installed\x64-windows\lib]
-02/27/2022  16:52    <JUNCTION>     media [D:\vcpkg\installed\x64-windows\Media]
-02/25/2022  18:12    <JUNCTION>     tools [D:\vcpkg\installed\x64-windows\tools]
-02/25/2022  18:13    <JUNCTION>     utils [D:\vcpkg\installed\x64-windows\utils]
-02/27/2022  16:52                 0 vcpkg_release
-               1 File(s)              0 bytes
-               8 Dir(s)  909,899,558,912 bytes free
+05/31/2022  21:14    <DIR>          .
+05/01/2022  21:35    <DIR>          ..
+05/03/2022  21:53    <JUNCTION>     bin [D:\vcpkg\installed\x64-windows\bin]
+05/31/2022  21:14    <JUNCTION>     etc [D:\vcpkg\installed\x64-windows\etc]
+05/03/2022  21:53    <JUNCTION>     include [D:\vcpkg\installed\x64-windows\include]
+05/03/2022  21:53    <JUNCTION>     lib [D:\vcpkg\installed\x64-windows\lib]
+05/03/2022  21:53    <JUNCTION>     media [D:\vcpkg\installed\x64-windows\media]
+05/03/2022  21:54    <JUNCTION>     tools [D:\vcpkg\installed\x64-windows\tools]
+05/03/2022  21:54    <JUNCTION>     utils [D:\vcpkg\installed\x64-windows\utils]
+               0 File(s)              0 bytes
+               9 Dir(s)  766,442,610,688 bytes free
