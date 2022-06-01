@@ -3,14 +3,15 @@
 
  Directory of D:\Projects\Git\_vcpkg\debug
 
-05/31/2022  21:15    <DIR>          .
-05/01/2022  21:35    <DIR>          ..
+05/31/2022  21:25    <DIR>          .
+05/31/2022  21:25    <DIR>          ..
 05/03/2022  21:51    <JUNCTION>     bin [D:\vcpkg\installed\x64-windows\debug\bin]
 05/31/2022  21:15    <JUNCTION>     etc [D:\vcpkg\installed\x64-windows\etc]
 05/03/2022  21:52    <JUNCTION>     include [D:\vcpkg\installed\x64-windows\include]
 05/03/2022  21:51    <JUNCTION>     lib [D:\vcpkg\installed\x64-windows\debug\lib]
 05/03/2022  21:55    <JUNCTION>     media [D:\vcpkg\installed\x64-windows\debug\media]
+05/31/2022  21:25    <JUNCTION>     share [D:\vcpkg\installed\x64-windows\share]
 05/03/2022  21:52    <JUNCTION>     tools [D:\vcpkg\installed\x64-windows\debug\tools]
 05/03/2022  21:52    <JUNCTION>     utils [D:\vcpkg\installed\x64-windows\debug\utils]
                0 File(s)              0 bytes
-               9 Dir(s)  765,882,556,416 bytes free
+              10 Dir(s)  751,641,182,208 bytes free
