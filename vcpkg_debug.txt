@@ -1,10 +1,10 @@
  Volume in drive D is Dev01
  Volume Serial Number is AC63-F430
 
- Directory of D:\Projects\Git\_vcpkg\debug
+ Directory of d:\Projects\Git\_vcpkg\debug
 
-05/31/2022  21:25    <DIR>          .
-05/31/2022  21:25    <DIR>          ..
+07/09/2022  18:23    <DIR>          .
+05/31/2022  21:26    <DIR>          ..
 05/03/2022  21:51    <JUNCTION>     bin [D:\vcpkg\installed\x64-windows\debug\bin]
 05/31/2022  21:15    <JUNCTION>     etc [D:\vcpkg\installed\x64-windows\etc]
 05/03/2022  21:52    <JUNCTION>     include [D:\vcpkg\installed\x64-windows\include]
@@ -12,6 +12,5 @@
 05/03/2022  21:55    <JUNCTION>     media [D:\vcpkg\installed\x64-windows\debug\media]
 05/31/2022  21:25    <JUNCTION>     share [D:\vcpkg\installed\x64-windows\share]
 05/03/2022  21:52    <JUNCTION>     tools [D:\vcpkg\installed\x64-windows\debug\tools]
-05/03/2022  21:52    <JUNCTION>     utils [D:\vcpkg\installed\x64-windows\debug\utils]
                0 File(s)              0 bytes
-              10 Dir(s)  751,641,182,208 bytes free
+               9 Dir(s)  733,546,536,960 bytes free
